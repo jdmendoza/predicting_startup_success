@@ -3,13 +3,18 @@
 Team: [Danny Mendoza](https://www.linkedin.com/in/jdmendoza1/), [Nazim Ashman](https://www.linkedin.com/in/nazimash/)
 
 ## Objective
-Using data science to determine if a startup will succeed.
+Determine the probability of success for a startup..
 
 ## Running The Code
 1) Use "git clone https://github.com/jdmendoza/predicting_startup_success.git" to download the repo to a local folder
-1.5) Run Second_round_model.ipynb, Creating_total_funding_time_dict.ipynb for dictionary generation, this has already been done, so you can skip. 
-2) Run the "Danny_SF_Startup_Acquisition.ipynb" python notebook
-3) Run the "Nazim_investor_and_city_ranking.ipynb" 
+
+2.a) Optional - Run "find_ipo_companies.ipynb" 
+2.b) Optional - Run "Creating_total_funding_time_dict.ipynb"
+2.c) Optional - Run "Nazim_investor_and_city_ranking.ipynb" 
+
+3) Run the "Danny_SF_Startup_Acquisition.ipynb" python notebook
+
+4) Run the "Second_round_model.ipynb"
 
 ## Links to Collateral
 Presentation: [Predicting Startup Success](https://docs.google.com/presentation/d/1zk-O_mIEjaI0jsHBsJdzWWQ0KN4v78q8L24Ym6vElOs/edit?usp=sharing)
