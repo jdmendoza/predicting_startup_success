@@ -9,7 +9,9 @@ Determine the probability of success for a startup..
 1) Use "git clone https://github.com/jdmendoza/predicting_startup_success.git" to download the repo to a local folder
 
 2.a) Optional - Run "find_ipo_companies.ipynb" 
+
 2.b) Optional - Run "Creating_total_funding_time_dict.ipynb"
+
 2.c) Optional - Run "Nazim_investor_and_city_ranking.ipynb" 
 
 3) Run the "Danny_SF_Startup_Acquisition.ipynb" python notebook
