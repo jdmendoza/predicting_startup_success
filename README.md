@@ -6,4 +6,6 @@ Using data science to determine if a startup will succeed.
 
 Presentation: [Predicting Startup Success](https://docs.google.com/presentation/d/1zk-O_mIEjaI0jsHBsJdzWWQ0KN4v78q8L24Ym6vElOs/edit?usp=sharing)
 
+Deployed Website (Minimum Viable Product): [Startup Survival Calculator](http://startupapp-env.qdzme9yedp.us-west-1.elasticbeanstalk.com/)
+
 Dataset:[Crunchbase_Data](https://www.dropbox.com/s/brtuewlpskwk07l/crunchbase_monthly_export_d43b4klo2ade53.xlsx?dl=0)
